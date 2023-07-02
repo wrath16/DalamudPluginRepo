@@ -3,7 +3,7 @@
       "Author": "SaMo",
       "Name": "Map Party Assist",
       "InternalName": "MapPartyAssist",
-      "AssemblyVersion": "0.2.0.6",
+      "AssemblyVersion": "0.2.0.7",
       "Description": "Helpful tool for keeping track of treasure maps opened by players in your party. Automatic and manual tracking available.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/wrath16/MapPartyAssist",
@@ -19,10 +19,10 @@
       "LoadPriority": 0,
       "Punchline": "Keep track of treasure maps opened by party members.",
       "AcceptsFeedback": true,
-      "DownloadLinkInstall": "https://github.com/wrath16/MapPartyAssist/releases/download/v0.2.0.6/latest.zip",
+      "DownloadLinkInstall": "https://github.com/wrath16/MapPartyAssist/releases/download/v0.2.0.7/latest.zip",
       "IsHide": false,
       "IsTestingExclusive": false,
-      "DownloadLinkTesting": "https://github.com/wrath16/MapPartyAssist/releases/download/v0.2.0.6/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/wrath16/MapPartyAssist/releases/download/v0.2.0.6/latest.zip",
+      "DownloadLinkTesting": "https://github.com/wrath16/MapPartyAssist/releases/download/v0.2.0.7/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/wrath16/MapPartyAssist/releases/download/v0.2.0.7/latest.zip",
     }
 ]
