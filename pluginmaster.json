@@ -20,7 +20,7 @@
       "IconUrl": "https://raw.githubusercontent.com/wrath16/MapPartyAssist/master/images/icon.png",
       "Punchline": "Treasure map tracker and statistics.",
       "Changelog": "Lots of fixes and some UI improvements.",
-      "AcceptsFeedback": true
+      "AcceptsFeedback": true,
       "IsHide": false,
       "IsTestingExclusive": false,
       "DownloadLinkInstall": "https://github.com/wrath16/MapPartyAssist/releases/download/v0.4.2.0/latest.zip",
